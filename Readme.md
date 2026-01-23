@@ -1,8 +1,3 @@
-the project root.
-
-conda activate "h:\AGENTIC AI\DAY 2 - LANGGRAPH INVOICE PROCESSING ASSISTANT\.conda"
-
-markdown
 # 📄 Invoice Assistant (LangGraph + Streamlit)
 
 An end‑to‑end **invoice processing assistant** built with **Streamlit**, **LangGraph**, **OpenAI**, and **SQLite**.
