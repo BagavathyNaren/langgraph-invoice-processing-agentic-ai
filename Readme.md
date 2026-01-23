@@ -1,6 +1,6 @@
 the project root.
 
-conda activate "h:\AGENTIC AI SUTHERLAND\DAY 2 - LANGGRAPH INVOICE PROCESSING ASSISTANT\.conda"
+conda activate "h:\AGENTIC AI\DAY 2 - LANGGRAPH INVOICE PROCESSING ASSISTANT\.conda"
 
 markdown
 # 📄 Invoice Assistant (LangGraph + Streamlit)
